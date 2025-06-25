@@ -34,9 +34,9 @@
 | 🔧 Familiar | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=019137) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-metrix&show_icons=true&locale=en&layout=compact" alt="roshan-metrix" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-metrix&show_icons=true&locale=en&layout=compact" alt="roshan-metrix" width=400 /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-metrix&show_icons=true&locale=en" alt="roshan-metrix" /></p>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400/></a>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
