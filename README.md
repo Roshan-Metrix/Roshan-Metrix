@@ -38,4 +38,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-metrix&show_icons=true&locale=en" alt="roshan-metrix" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-metrix&" alt="roshan-metrix" /></p>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400/></a>
+&nbsp;&nbsp;&nbsp;<a href="#">
