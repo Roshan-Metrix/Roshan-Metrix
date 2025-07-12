@@ -1,5 +1,5 @@
-<h1 align="center">Hi It's Roshan Patel</h1>
-<h3 align="center">A passionate Web Developer from Nepal</h3>
+<h1 align="center">Hi It's Roshan Patel 😉</h1>
+<h3 align="center">A Passionate Full Stack Web Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-metrix&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-metrix" /> </p>
 
