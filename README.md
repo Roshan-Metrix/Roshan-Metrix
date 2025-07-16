@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Nodejs etc.**
 
-- 📫 How to reach me **roshanpatel12309@gmail.com**
+- 📫 Reach me **roshanpatel12309@gmail.com**
 
 - ⚡ Fun fact **I'm funny 😎**
 
