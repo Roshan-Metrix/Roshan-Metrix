@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **DevOps and Cloud**
 
-- 💬 Ask me about **React, Nodejs etc.**
+- 🎯 Proficiency in **Typescript,ReactJS,NextJs,NodeJS etc.**
 
 - 📫 Reach me **roshanpatel12309@gmail.com**
 
