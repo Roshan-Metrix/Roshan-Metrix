@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently learning **DevOps and Cloud**
+- 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack Projects**
 
 - 🎯 Proficiency in **Typescript,ReactJS,NextJs,NodeJS etc.**
 
