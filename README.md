@@ -40,3 +40,9 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
+
+<!-- Snake Contribution Graph -->
+<p align="center">
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
