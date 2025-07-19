@@ -40,6 +40,17 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
+<!-- 3D Contribution -->
+<table>
+  <tr>
+    <td>
+      <!-- <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
+      <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
+      <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>  -->
+      <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
+    </td>
+  </tr>
+</table> 
 # 🤖 Contributions
 <p align="center">
   <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation" />
