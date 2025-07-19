@@ -1,3 +1,6 @@
+<!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
+<!-- Context -->
 <h1 align="center">Hi It's Roshan Patel 😉</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Nepal</h3>
 
@@ -41,16 +44,16 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
 <!-- 3D Contribution -->
-<table>
+<!-- <table>
   <tr>
     <td>
-      <!-- <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
+       <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
       <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
-      <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>  -->
+      <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
       <img width="794" src="https://github.com/Roshan-Metrix/Roshan-Metrix/blob/master/profile-night-rainbow.svg" align="center"/>
     </td>
   </tr>
-</table> 
+</table> -->
 
 # 🤖 Contributions
 
@@ -58,3 +61,5 @@
   <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<!-- Footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
