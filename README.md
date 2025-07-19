@@ -51,7 +51,9 @@
     </td>
   </tr>
 </table> 
+
 # 🤖 Contributions
+
 <p align="center">
   <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
