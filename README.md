@@ -58,7 +58,7 @@
 # 🤖 Contributions
 
 <p align="center">
-  <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="./github-contribution-grid-snake-dark.svg" alt="Snake animation draw" />
 </p>
 
 <!-- Footer -->
