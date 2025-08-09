@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 <!-- Context -->
 <h1 align="center">Hi,It's Roshan Patel 😉</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Nepal</h3>
+<h3 align="center">A Passionate Full Stack DevOps Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-metrix&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-metrix" /> </p>
 
