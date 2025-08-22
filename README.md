@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack Projects**
 
-- 🎯 Proficiency in **Typescript,ReactJS,NodeJS,DevOps etc.**
+- 🎯 Proficiency in **Typescript,ReactJS,NodeJS etc.**
 
 - 📫 Reach me **roshanpatel12309@gmail.com**
 
