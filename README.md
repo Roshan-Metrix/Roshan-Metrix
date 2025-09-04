@@ -1,4 +1,4 @@
-<!-- Headers -->
+<!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 <!-- Context -->
 <h1 align="center">Hi,It's Roshan Patel 😉</h1>
