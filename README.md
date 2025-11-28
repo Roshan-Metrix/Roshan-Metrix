@@ -43,7 +43,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-metrix&show_icons=true&locale=en&layout=compact" alt="roshan-metrix" width=350 /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-metrix&show_icons=true&locale=en" alt="roshan-metrix" width=400 /></p> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan-metrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan-metrix)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400 /></a>
 &nbsp;&nbsp;&nbsp;<a href="#">
