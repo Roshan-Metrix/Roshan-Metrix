@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack Projects**
+- 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack , Android/iOS Projects**
 
 - ⚡ Researching **AI/ML** , exploring **Quantum Computing**
 
