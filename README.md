@@ -40,12 +40,13 @@
 | 🔧 Familiar | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=019137) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![C++](https://img.shields.io/badge/C++-ec7211?style=flat-square&logo=amazonec2&logoColor=white) ![Python](https://img.shields.io/badge/python-1d63ed?style=flat-square&logoColor=white) |
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-000000?style=flat-square) |
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" alt="Roshan-metrix" align="center" width=400 /></a>
-&nbsp;&nbsp;&nbsp;<a href="#">
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roshan-metrix&langs_count=8&hide=html,css,ejs)
-
-![Roshan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=roshan-metrix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+ <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Roshan-metrix&" height="200" />
+  <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roshan-metrix&langs_count=8&hide=html,css,ejs" height="320" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=roshan-metrix&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
+    </p>
+</p> 
 
 <!-- [![Roshan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Roshan-Metrix)](https://github.com/pranesh-2005/github-readme-stats-fast) -->
 
