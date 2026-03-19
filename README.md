@@ -5,10 +5,9 @@
 <h3 align="center">A Passionate Full Stack DevOps Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-metrix&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-metrix" /> </p>
+<p align="left"> <img src="https://trophy.ryglcloud.net/?username=Roshan-Metrix&theme=light&column=-1" alt="roshan-metrix" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-metrix" alt="roshan-metrix-github-trophy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=roshan-metrix" alt="roshan-metrix-github-trophy" /></a> </p> -->
 
 - 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack , Android/iOS Projects**
 
