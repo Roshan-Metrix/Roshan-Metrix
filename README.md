@@ -4,10 +4,11 @@
 <h1 align="center">Hi,I'm Roshan Patel </h1>
 <h3 align="center">A Passionate Full Stack DevOps Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-metrix&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-metrix" /> </p>
+
 <p align="center"> <img src="https://trophy.ryglcloud.net/?username=Roshan-Metrix&theme=light&row=2&column=5&margin-w=15&margin-h=15" alt="roshan-metrix" /> </p>
 <!-- <p align="left"> <img src="https://trophy.ryglcloud.net/?username=Roshan-Metrix&theme=light&column=-1" alt="roshan-metrix" /> </p> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-metrix&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-metrix" /> </p>
 <!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=roshan-metrix" alt="roshan-metrix-github-trophy" /></a> </p> -->
 
 - 🌱 Currently learning **DevOps and Cloud** , working in **Full Stack , Android/iOS Projects**
